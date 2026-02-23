@@ -1,8 +1,8 @@
 {
   "name": "com.ama1r0.mtoon",
   "version": "3.9.0",
-  "displayName": "MToon Shader (Standalone)",
-  "description": "Standalone MToon shader extracted from Santarh/MToon",
+  "displayName": "MToon Shader Standalone",
+  "description": "Standalone MToon shader package for Unity",
   "unity": "2019.4",
   "keywords": [
     "shader",
@@ -12,6 +12,5 @@
   "author": {
     "name": "ama1r0"
   },
-  "license": "MIT",
-  "dependencies": {}
+  "license": "MIT"
 }
